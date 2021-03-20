@@ -1,0 +1,32 @@
+[
+  {
+    "name": "C++",
+    "path": "cplusplus_1/x64/Release",
+    "runnable": "PiCalculator.exe"
+  },
+  {
+    "name": "Java",
+    "path": "java1/build/libs",
+    "runnable": "java -jar PiCalculatorJava1-1.0-SNAPSHOT.jar"
+  },
+  {
+    "name": "C#",
+    "path": "c_sharp_1/bin/Release/netcoreapp3.1",
+    "runnable": "PiCalculator.exe"
+  },
+  {
+    "name": "Node",
+    "path": "node1",
+    "runnable": "node pi_calculator.js"
+  },
+  {
+    "name": "Golang",
+    "path": "golang1",
+    "runnable": "pi_calculation.exe"
+  },
+  {
+    "name": "Python",
+    "path": "python1",
+    "runnable": "python pi_calculator.py"
+  }
+]

@@ -1,0 +1,10 @@
+.vs
+.idea
+*.iml
+
+*/bin
+*/obj
+*/Debug
+*/Properties
+*/x64
+*/x86

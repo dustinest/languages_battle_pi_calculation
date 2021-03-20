@@ -1,0 +1,5 @@
+build:
+	go build -o pi_calculation.exe pi_calculation.go
+
+run:
+	go run pi_calculation.go
