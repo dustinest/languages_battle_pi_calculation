@@ -76,7 +76,7 @@ def calculate_pi_digits_in_range(max_digits, iterations):
     digits = 10
     while digits <= max_digits:
         result = calculate_pi_digits_and_get_intervals(digits, iterations)
-        result.println()
+        #result.println()
         results.append(result)
         digits *= 10
     return results

@@ -18,6 +18,7 @@ C++ is a good reference to start with as it is closest to the speed as possible.
 - C#;
 - Java;
 - JavaScript (Node.js);
+- PHP;
 - Go Lang;
 - Python.
 
@@ -28,7 +29,7 @@ The PI calculation is the oldest problem to solve in software engineering. It is
 ## What does it demonstrate
 
 The syntax is quite similar, there are some perks and problems based on the language but overall the code length is almost the same but results do differ!
-When C++, Java and C# are quick to solve the problem (in my test machine C++ and Java are fighting for the first place)
+When C++, Java and C# are quick to solve the problem (in my test machine C++ and Java are fighting for the first place), PHP is surprisingly quick (might be because of native integer division support?) and
 then Node.js is decent, Go Lang and Python came last with Python even so painfully it did not finish 10000 iterations in 24h in my test machine.
 
 ## What if I know more optimisation tricks.
